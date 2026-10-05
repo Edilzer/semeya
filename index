@@ -165,42 +165,42 @@ footer p{
 <div class="productos">
 
 <div class="producto">
-<img src="image/pantalon1.jpg">
+<img src="pantalon1.jpg">
 <h3>Pantalón Clásico</h3>
 <p>Pantalón cómodo para cualquier ocasión.</p>
 <strong>Q 180.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/pantalon2.jpg">
+<img src="pantalon2.jpg">
 <h3>Pantalón Jeans</h3>
 <p>Jeans resistentes y modernos.</p>
 <strong>Q 220.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/pantalon3.jpg">
+<img src="pantalon3.jpg">
 <h3>Pantalón Negro</h3>
 <p>Diseño sencillo y elegante.</p>
 <strong>Q 200.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/pantalon4.jpg">
+<img src="pantalon4.jpg">
 <h3>Pantalón Cargo</h3>
 <p>Práctico y cómodo para el día a día.</p>
 <strong>Q 250.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/pantalon5.jpg">
+<img src="pantalon5.jpg">
 <h3>Pantalón Deportivo</h3>
 <p>Ideal para actividades deportivas.</p>
 <strong>Q 160.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/pantalon6.jpg">
+<img src="pantalon6.jpg">
 <h3>Pantalón Formal</h3>
 <p>Elegante para ocasiones especiales.</p>
 <strong>Q 280.00</strong>
@@ -213,42 +213,42 @@ footer p{
 <div class="productos">
 
 <div class="producto">
-<img src="image/camisa1.jpg">
+<img src="camisa1.jpg">
 <h3>Camisa Blanca</h3>
 <p>Camisa clásica de color blanco.</p>
 <strong>Q 120.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/camisa2.jpg">
+<img src="camisa2.jpg">
 <h3>Camisa Negra</h3>
 <p>Diseño moderno y elegante.</p>
 <strong>Q 130.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/camisa3.jpg">
+<img src="camisa3.jpg">
 <h3>Camisa Casual</h3>
 <p>Perfecta para usar todos los días.</p>
 <strong>Q 110.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/camisa4.jpg">
+<img src="camisa4.jpg">
 <h3>Camisa de Cuadros</h3>
 <p>Diseño casual con cuadros.</p>
 <strong>Q 150.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/camisa5.jpg">
+<img src="camisa5.jpg">
 <h3>Camisa Deportiva</h3>
 <p>Ligera y cómoda para hacer ejercicio.</p>
 <strong>Q 140.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/camisa6.jpg">
+<img src="camisa6.jpg">
 <h3>Camisa Elegante</h3>
 <p>Ideal para ocasiones especiales.</p>
 <strong>Q 180.00</strong>
@@ -261,42 +261,42 @@ footer p{
 <div class="productos">
 
 <div class="producto">
-<img src="image/sueter1.jpg">
+<img src="sueter1.jpg">
 <h3>Suéter Clásico</h3>
 <p>Suéter cómodo para días frescos.</p>
 <strong>Q 180.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/sueter2.jpg">
+<img src="sueter2.jpg">
 <h3>Suéter Negro</h3>
 <p>Diseño sencillo y moderno.</p>
 <strong>Q 200.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/sueter3.jpg">
+<img src="sueter3.jpg">
 <h3>Suéter Deportivo</h3>
 <p>Perfecto para actividades al aire libre.</p>
 <strong>Q 220.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/sueter4.jpg">
+<img src="sueter4.jpg">
 <h3>Suéter con Capucha</h3>
 <p>Cómodo y perfecto para el frío.</p>
 <strong>Q 250.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/sueter5.jpg">
+<img src="sueter5.jpg">
 <h3>Suéter Ligero</h3>
 <p>Ideal para días ligeramente fríos.</p>
 <strong>Q 160.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/sueter6.jpg">
+<img src="sueter6.jpg">
 <h3>Suéter Premium</h3>
 <p>Diseño elegante y cómodo.</p>
 <strong>Q 300.00</strong>
@@ -310,42 +310,42 @@ footer p{
 <div class="productos">
 
 <div class="producto">
-<img src="image/chaqueta1.jpg">
+<img src="chaqueta1.jpg">
 <h3>Chaqueta Negra</h3>
 <p>Diseño clásico y moderno.</p>
 <strong>Q 300.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/chaqueta2.jpg">
+<img src="chaqueta2.jpg">
 <h3>Chaqueta de Jeans</h3>
 <p>Chaqueta resistente y casual.</p>
 <strong>Q 280.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/chaqueta3.jpg">
+<img src="chaqueta3.jpg">
 <h3>Chaqueta Deportiva</h3>
 <p>Ligera y cómoda para hacer deporte.</p>
 <strong>Q 250.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/chaqueta4.jpg">
+<img src="chaqueta4.jpg">
 <h3>Chaqueta Impermeable</h3>
 <p>Protección para días lluviosos.</p>
 <strong>Q 350.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/chaqueta5.jpg">
+<img src="chaqueta5.jpg">
 <h3>Chaqueta Casual</h3>
 <p>Perfecta para usar todos los días.</p>
 <strong>Q 270.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/chaqueta6.jpg">
+<img src="chaqueta6.jpg">
 <h3>Chaqueta Premium</h3>
 <p>Diseño elegante y resistente.</p>
 <strong>Q 450.00</strong>
@@ -357,42 +357,42 @@ footer p{
 <h2>Zapatos</h2>
 <div class="productos">
 <div class="producto">
-<img src="image/zapato1.jpg">
+<img src="zapato1.jpg">
 <h3>Tenis Clásicos</h3>
 <p>Zapatos cómodos para todos los días.</p>
 <strong>Q 300.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/zapato2.jpg">
+<img src="zapato2.jpg">
 <h3>Tenis Deportivos</h3>
 <p>Ideales para hacer ejercicio.</p>
 <strong>Q 350.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/zapato3.jpg">
+<img src="zapato3.jpg">
 <h3>Zapatos Formales</h3>
 <p>Elegantes para ocasiones especiales.</p>
 <strong>Q 400.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/zapato4.jpg">
+<img src="zapato4.jpg">
 <h3>Botas</h3>
 <p>Resistentes y cómodas.</p>
 <strong>Q 450.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/zapato5.jpg">
+<img src="zapato5.jpg">
 <h3>Tenis Urbanos</h3>
 <p>Estilo moderno para la ciudad.</p>
 <strong>Q 320.00</strong>
 </div>
 
 <div class="producto">
-<img src="image/zapato6.jpg">
+<img src="zapato6.jpg">
 <h3>Zapatos Casual</h3>
 <p>Comodidad y estilo para cualquier ocasión.</p>
 <strong>Q 280.00</strong>
