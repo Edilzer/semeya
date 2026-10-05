@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dieguito Shop</title>
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-family:Arial;
+    background:#eee;
+    color:#111;
+}
+
+header,footer{
+    background:#111;
+    color:white;
+    text-align:center;
+    padding:25px;
+}
+
+header{
+    border-bottom:5px solid #f50;
+}
+
+header h1{
+    color:#f50;
+    margin-bottom:20px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:10px;
+}
+
+nav a:hover{
+    color:#f50;
+}
+
+.bienvenida{
+    background:white;
+    text-align:center;
+    padding:80px 20px;
+    border-bottom:5px solid #f50;
+}
+
+.bienvenida h2{
+    font-size:36px;
+    margin-bottom:15px;
+}
+
+.bienvenida p{
+    margin-bottom:30px;
+}
+
+.boton{
+    background:#f50;
+    color:white;
+    padding:15px 30px;
+    text-decoration:none;
+}
+
+.categoria{
+    padding:50px 8%;
+}
+
+.categoria h2{
+    text-align:center;
+    color:#f50;
+    margin-bottom:30px;
+}
+
+.productos{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:25px;
+}
+
+.producto{
+    background:white;
+    padding:25px;
+    text-align:center;
+    border-radius:8px;
+}
+
+.producto:hover{
+    border:2px solid #f50;
+}
+
+.producto img{
+    width:200px;
+    height:150px;
+    margin-bottom:15px;
+}
+
+.producto h3{
+    margin-bottom:10px;
+}
+
+.producto p{
+    margin-bottom:15px;
+}
+
+.producto strong{
+    color:#f50;
+    font-size:22px;
+}
+
+footer{
+    margin-top:30px;
+    border-top:5px solid #f50;
+}
+
+footer p{
+    margin:7px;
+}
+
+@media(max-width:700px){
+
+    nav a{
+        display:block;
+    }
+
+    .productos{
+        grid-template-columns:1fr;
+    }
+
+}
+
+</style>
+
+</head>
+<body>
+<header>
+
+<h1>Dieguito Shop</h1>
+
+<nav>
+<a href="#inicio">Inicio</a>
+<a href="#pantalones">Pantalones</a>
+<a href="#camisas">Camisas</a>
+<a href="#sueteres">Suéteres</a>
+<a href="#chaquetas">Chaquetas</a>
+<a href="#zapatos">Zapatos</a>
+</nav>
+
+</header>
+<main>
+
+<section id="inicio" class="bienvenida">
+<h2>Bienvenido a Dieguito Shop</h2>
+<p>Encuentra ropa y accesorios con estilo para todos.</p>
+<a href="#pantalones" class="boton">Ver productos</a>
+</section>
+
+<section id="pantalones" class="categoria">
+<h2>Pantalones</h2>
+<div class="productos">
+
+<div class="producto">
+<img src="image/pantalon1.jpg">
+<h3>Pantalón Clásico</h3>
+<p>Pantalón cómodo para cualquier ocasión.</p>
+<strong>Q 180.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/pantalon2.jpg">
+<h3>Pantalón Jeans</h3>
+<p>Jeans resistentes y modernos.</p>
+<strong>Q 220.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/pantalon3.jpg">
+<h3>Pantalón Negro</h3>
+<p>Diseño sencillo y elegante.</p>
+<strong>Q 200.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/pantalon4.jpg">
+<h3>Pantalón Cargo</h3>
+<p>Práctico y cómodo para el día a día.</p>
+<strong>Q 250.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/pantalon5.jpg">
+<h3>Pantalón Deportivo</h3>
+<p>Ideal para actividades deportivas.</p>
+<strong>Q 160.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/pantalon6.jpg">
+<h3>Pantalón Formal</h3>
+<p>Elegante para ocasiones especiales.</p>
+<strong>Q 280.00</strong>
+</div>
+</div>
+
+</section>
+<section id="camisas" class="categoria">
+<h2>Camisas</h2>
+<div class="productos">
+
+<div class="producto">
+<img src="image/camisa1.jpg">
+<h3>Camisa Blanca</h3>
+<p>Camisa clásica de color blanco.</p>
+<strong>Q 120.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/camisa2.jpg">
+<h3>Camisa Negra</h3>
+<p>Diseño moderno y elegante.</p>
+<strong>Q 130.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/camisa3.jpg">
+<h3>Camisa Casual</h3>
+<p>Perfecta para usar todos los días.</p>
+<strong>Q 110.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/camisa4.jpg">
+<h3>Camisa de Cuadros</h3>
+<p>Diseño casual con cuadros.</p>
+<strong>Q 150.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/camisa5.jpg">
+<h3>Camisa Deportiva</h3>
+<p>Ligera y cómoda para hacer ejercicio.</p>
+<strong>Q 140.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/camisa6.jpg">
+<h3>Camisa Elegante</h3>
+<p>Ideal para ocasiones especiales.</p>
+<strong>Q 180.00</strong>
+</div>
+</div>
+</section>
+
+<section id="sueteres" class="categoria">
+<h2>Suéteres</h2>
+<div class="productos">
+
+<div class="producto">
+<img src="image/sueter1.jpg">
+<h3>Suéter Clásico</h3>
+<p>Suéter cómodo para días frescos.</p>
+<strong>Q 180.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/sueter2.jpg">
+<h3>Suéter Negro</h3>
+<p>Diseño sencillo y moderno.</p>
+<strong>Q 200.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/sueter3.jpg">
+<h3>Suéter Deportivo</h3>
+<p>Perfecto para actividades al aire libre.</p>
+<strong>Q 220.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/sueter4.jpg">
+<h3>Suéter con Capucha</h3>
+<p>Cómodo y perfecto para el frío.</p>
+<strong>Q 250.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/sueter5.jpg">
+<h3>Suéter Ligero</h3>
+<p>Ideal para días ligeramente fríos.</p>
+<strong>Q 160.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/sueter6.jpg">
+<h3>Suéter Premium</h3>
+<p>Diseño elegante y cómodo.</p>
+<strong>Q 300.00</strong>
+</div>
+</div>
+
+</section>
+
+<section id="chaquetas" class="categoria">
+<h2>Chaquetas</h2>
+<div class="productos">
+
+<div class="producto">
+<img src="image/chaqueta1.jpg">
+<h3>Chaqueta Negra</h3>
+<p>Diseño clásico y moderno.</p>
+<strong>Q 300.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/chaqueta2.jpg">
+<h3>Chaqueta de Jeans</h3>
+<p>Chaqueta resistente y casual.</p>
+<strong>Q 280.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/chaqueta3.jpg">
+<h3>Chaqueta Deportiva</h3>
+<p>Ligera y cómoda para hacer deporte.</p>
+<strong>Q 250.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/chaqueta4.jpg">
+<h3>Chaqueta Impermeable</h3>
+<p>Protección para días lluviosos.</p>
+<strong>Q 350.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/chaqueta5.jpg">
+<h3>Chaqueta Casual</h3>
+<p>Perfecta para usar todos los días.</p>
+<strong>Q 270.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/chaqueta6.jpg">
+<h3>Chaqueta Premium</h3>
+<p>Diseño elegante y resistente.</p>
+<strong>Q 450.00</strong>
+</div>
+</div>
+</section>
+
+<section id="zapatos" class="categoria">
+<h2>Zapatos</h2>
+<div class="productos">
+<div class="producto">
+<img src="image/zapato1.jpg">
+<h3>Tenis Clásicos</h3>
+<p>Zapatos cómodos para todos los días.</p>
+<strong>Q 300.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/zapato2.jpg">
+<h3>Tenis Deportivos</h3>
+<p>Ideales para hacer ejercicio.</p>
+<strong>Q 350.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/zapato3.jpg">
+<h3>Zapatos Formales</h3>
+<p>Elegantes para ocasiones especiales.</p>
+<strong>Q 400.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/zapato4.jpg">
+<h3>Botas</h3>
+<p>Resistentes y cómodas.</p>
+<strong>Q 450.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/zapato5.jpg">
+<h3>Tenis Urbanos</h3>
+<p>Estilo moderno para la ciudad.</p>
+<strong>Q 320.00</strong>
+</div>
+
+<div class="producto">
+<img src="image/zapato6.jpg">
+<h3>Zapatos Casual</h3>
+<p>Comodidad y estilo para cualquier ocasión.</p>
+<strong>Q 280.00</strong>
+</div>
+</div>
+</section>
+
+</main>
+
+<footer>
+<p>© 2026 Dieguito Shop</p>
+<p>Contacto: diegoperen275@gmail.com</p>
+</footer>
+
+</body>
+</html>
